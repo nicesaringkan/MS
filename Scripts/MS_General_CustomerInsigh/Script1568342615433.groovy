@@ -16,7 +16,7 @@ import internal.GlobalVariable as GlobalVariable
 String closeC =' '
 //row = 1
 
-xlsData = findTestData('MS_General_CustomerInsigh_CloseBrowser')
+xlsData = findTestData('MS_General_CustomerInsigh')
 
 btnNext = findTestObject('Object Repository/btn_next')
 
