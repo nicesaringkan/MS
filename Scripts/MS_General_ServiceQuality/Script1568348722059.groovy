@@ -17,7 +17,7 @@ String closeC =' '
 
 //row = 1
 
-xlsData = findTestData('MS_General_ServiceQuality_CloseBrowser')
+xlsData = findTestData('MS_General_ServiceQuality')
 
 btnNext = findTestObject('Object Repository/btn_next')
 
